@@ -1,3 +1,2 @@
 merhaba
-ikinci merhaba
-üçüncü merhaba
+bu aliden
